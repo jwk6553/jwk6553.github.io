@@ -3,21 +3,24 @@ layout: post
 title:  "팀 프로젝트 소개"
 date:   2020-05-24 21:03:36 +0530
 ---
-팀 프로젝트
-<br>
-1.팀원
+##팀 프로젝트
+<br><br>
+##1.팀원
 <br>
 
 ![퀴즈](https://user-images.githubusercontent.com/63763700/82752418-dccb9080-9df8-11ea-8ac6-859eba81032b.png)
 
-2.언어 선정 계기
+##2.언어 및 프로젝트 선정 계기
 파이썬, C등의 여러가지 후보등이 나왔지만, 많은 얘기를 해본 결과 파이썬이 가장 적합할 것으로 파악되어 파이썬으로 하게 되었고, 그 중 여러가지 프로젝트등이 언급되었으나, visuaudio가 가장 많은 득표수를 얻어 이것으로 팀 프로젝트를 결정하게 되었다.
 
 ![퀴즈2](https://user-images.githubusercontent.com/63763700/82752660-82cbca80-9dfa-11ea-91d4-cc3d2fa16419.png)
 
 <br>
+![퀴즈4](https://user-images.githubusercontent.com/63763700/82752777-6b411180-9dfb-11ea-8855-b0c22139d938.png)
+
 <br>
-2.팀원별 역할<br>
+##3.팀원별 역할-개인별 기여방안 및 개선 방향<br>
+<br>
 서주원(팀장)<br>
 커뮤니티 활동 계획<br>
 개발 일정을 Project 탭에서 관리<br>
