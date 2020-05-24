@@ -77,7 +77,11 @@ Visuaudio<br>
 리눅스 환경에서 visuaudio 를 실행했을 때 생기는 각종 문제 파악<br>
 음원 입력 구체적 가이드라인이 없음<br>
 일부 파이썬 패키지의 버전 호환 문제<br>
-
+<br><br>
+## 5.참고자료
+<br>
+다양한 방식의 audio visualizer가 있으므로, 이러한 자료들을 참고한다면 좋을것같다.
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=i2wmETo74v0" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 <br>
 ## [2020-1-OSS-Team10 저장소](https://github.com/20-1-SKKU-OSS/2020-1-OSS-10)
 <br>
