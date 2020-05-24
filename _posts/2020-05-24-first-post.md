@@ -78,12 +78,11 @@ Visuaudio<br>
 음원 입력 구체적 가이드라인이 없음<br>
 일부 파이썬 패키지의 버전 호환 문제<br>
 <br><br>
-## 5.참고자료
+## 5.개선할 때의 참고자료
 <br>
 다양한 방식의 audio visualizer가 있으므로, 이러한 자료들을 참고한다면 좋을것같다.
 [![Watch the video](https://img.youtube.com/vi/i2wmETo74v0/maxresdefault.jpg)](https://youtu.be/i2wmETo74v0)
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 <br>
 ## [2020-1-OSS-Team10 저장소](https://github.com/20-1-SKKU-OSS/2020-1-OSS-10)
 <br>
