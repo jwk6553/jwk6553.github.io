@@ -81,7 +81,9 @@ Visuaudio<br>
 ## 5.참고자료
 <br>
 다양한 방식의 audio visualizer가 있으므로, 이러한 자료들을 참고한다면 좋을것같다.
-<iframe width="640" height="360" src="https://youtu.be/i2wmETo74v0" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Watch the video](https://img.youtube.com/vi/i2wmETo74v0/maxresdefault.jpg)](https://youtu.be/i2wmETo74v0)
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 <br>
 ## [2020-1-OSS-Team10 저장소](https://github.com/20-1-SKKU-OSS/2020-1-OSS-10)
 <br>
